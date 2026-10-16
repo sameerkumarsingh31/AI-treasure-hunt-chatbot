@@ -1,2 +1,21 @@
-# AI-treasure-hunt-chatbot
-Chatbot that runs treasure-hunt style interactive games using AI
+# 🗺️ AI Treasure Hunt Chatbot
+
+An interactive treasure hunt chatbot built using Botpress.
+
+## Features
+- Interactive clues
+- Answer validation
+- Three attempts for incorrect answers
+- Sequential clue progression
+- Final treasure message
+
+## Technology
+- Botpress
+- AI-powered conversational workflows
+
+## Try the Chatbot
+Paste your published chatbot link here.
+
+## Purpose
+This project demonstrates conversational AI and
+interactive chatbot workflow design.
